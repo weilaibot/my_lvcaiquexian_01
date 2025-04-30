@@ -76,7 +76,7 @@ After training:
 
 - All outputs (model weights, training logs, results) will be saved in:
   ```bash
-  runs/train/yolov11_exp/
+  runs/train/
   ```
 - Best weights can be found at:
   ```
