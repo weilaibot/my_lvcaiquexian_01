@@ -13,7 +13,7 @@ After downloading, extract the dataset and place it in the `datasets/` folder of
 
 ## 🧠 my_lvcaiquexian_01 Training Guide
 
-This project uses the **my_lvcaquexian_01** model for training on a custom dataset. Follow these steps to set up and train the model:
+This project uses the **my_lvcaiquexian_01** model for training on a custom dataset. Follow these steps to set up and train the model:
 
 ### 1. Environment Setup
 
