@@ -1,4 +1,4 @@
-# my_lvcaquexian_01
+# my_lvcaiquexian_01
 
 ## 📦 Dataset
 
@@ -11,7 +11,7 @@ After downloading, extract the dataset and place it in the `datasets/` folder of
 
 ---
 
-## 🧠 my_lvcaquexian_01 Training Guide
+## 🧠 my_lvcaiquexian_01 Training Guide
 
 This project uses the **my_lvcaquexian_01** model for training on a custom dataset. Follow these steps to set up and train the model:
 
@@ -20,7 +20,7 @@ This project uses the **my_lvcaquexian_01** model for training on a custom datas
 Make sure you are using Python ≥ 3.8, and create a virtual environment (optional but recommended):
 
 ```bash
-python -m venv my_lvcaquexian_01
+python -m venv my_lvcaiquexian_01
 source my_lvcaquexian_01/bin/activate  # On Windows: my_lvcaquexian_01\Scripts\activate
 ```
 
