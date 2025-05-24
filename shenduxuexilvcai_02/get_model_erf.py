@@ -159,7 +159,7 @@ class yolov8_erf:
 
 def get_params():
     params = {
-        'weight': 'yolov8n.pt', # 只需要指定权重即可
+        'weight': 'yolov8n.pt', 
         'device': 'cuda:0',
         'layer': '10', # string
         'dataset': '',
