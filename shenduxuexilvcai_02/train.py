@@ -10,7 +10,7 @@ if __name__ == '__main__':
                 imgsz=640,
                 epochs=200,
                 batch=64,
-                close_mosaic=0,
+                # close_mosaic=0,
                 workers=4,
                 # device='0,1',
                 optimizer='SGD',
